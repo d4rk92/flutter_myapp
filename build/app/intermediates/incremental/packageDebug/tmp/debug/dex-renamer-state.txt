@@ -1,0 +1,4 @@
+#Thu Feb 27 18:23:59 IRST 2020
+base.0=/home/dreamer/flutter_apps/myapp/build/app/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

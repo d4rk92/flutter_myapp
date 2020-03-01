@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f270278e17f871b6de2e33fb6a365d9c/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/e11ac8ddad558baf072bc59bcf0b1835/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/96fab94fc4e2ca7a2d5cea6d57a766eb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/8712ee7d997da40b799eb07ae8834064/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/2e64555f232e0af1cc0a305a0f3e3e24/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/993928adc2ff01d43a2cec48b78ef163/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f785f69837484be5d7b7ee5c1535f2d0/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/28b952589b0a9c119d95ba10e3f8cf8d/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1a4954130f68ac2fc20835a12cd06b65/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95582b58fff85ec062902bd8e510b3ad/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/44d56e57c2dc9dfb5024e22d4f5e26be/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/9e2ea8e519d0696511ba0353d5113cef/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/21fc75c41b06ff01657ba4349712f8f8/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1efcbf3edd6b469f152762d6b7a5fc5a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/a4b687d11f8b785eb589b43698100ccc/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f9ba4f66b719e75c406543f3c9478a02/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/11914d0412bcc32c0a87f3bcc8c89d06/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ca30f975d1addf46ce024fe602a810cc/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/481cc0cf6942fc1ab6aba7ab95d76952/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ddf54601cecfcacc69a3c40ad7cc869e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/03a85b68c87f25fa63fb14a7176ea221/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95e01c54a3ffc3655f5210f663aa4a8d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:2:5-28
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/11914d0412bcc32c0a87f3bcc8c89d06/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/11914d0412bcc32c0a87f3bcc8c89d06/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:10:9-30
+	android:icon
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#ir.d4rk.myapp.MainActivity
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f270278e17f871b6de2e33fb6a365d9c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f270278e17f871b6de2e33fb6a365d9c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/e11ac8ddad558baf072bc59bcf0b1835/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/e11ac8ddad558baf072bc59bcf0b1835/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/96fab94fc4e2ca7a2d5cea6d57a766eb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/96fab94fc4e2ca7a2d5cea6d57a766eb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/8712ee7d997da40b799eb07ae8834064/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/8712ee7d997da40b799eb07ae8834064/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/2e64555f232e0af1cc0a305a0f3e3e24/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/2e64555f232e0af1cc0a305a0f3e3e24/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/993928adc2ff01d43a2cec48b78ef163/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/993928adc2ff01d43a2cec48b78ef163/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f785f69837484be5d7b7ee5c1535f2d0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f785f69837484be5d7b7ee5c1535f2d0/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/28b952589b0a9c119d95ba10e3f8cf8d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/28b952589b0a9c119d95ba10e3f8cf8d/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1a4954130f68ac2fc20835a12cd06b65/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1a4954130f68ac2fc20835a12cd06b65/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95582b58fff85ec062902bd8e510b3ad/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95582b58fff85ec062902bd8e510b3ad/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/44d56e57c2dc9dfb5024e22d4f5e26be/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/44d56e57c2dc9dfb5024e22d4f5e26be/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/253287ed50cd856b93fa5c443d1f5356/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/9e2ea8e519d0696511ba0353d5113cef/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/9e2ea8e519d0696511ba0353d5113cef/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/21fc75c41b06ff01657ba4349712f8f8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/21fc75c41b06ff01657ba4349712f8f8/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1efcbf3edd6b469f152762d6b7a5fc5a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/1efcbf3edd6b469f152762d6b7a5fc5a/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/a4b687d11f8b785eb589b43698100ccc/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/a4b687d11f8b785eb589b43698100ccc/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f9ba4f66b719e75c406543f3c9478a02/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/f9ba4f66b719e75c406543f3c9478a02/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/11914d0412bcc32c0a87f3bcc8c89d06/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/11914d0412bcc32c0a87f3bcc8c89d06/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ca30f975d1addf46ce024fe602a810cc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ca30f975d1addf46ce024fe602a810cc/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/481cc0cf6942fc1ab6aba7ab95d76952/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/481cc0cf6942fc1ab6aba7ab95d76952/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ddf54601cecfcacc69a3c40ad7cc869e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/ddf54601cecfcacc69a3c40ad7cc869e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/03a85b68c87f25fa63fb14a7176ea221/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/03a85b68c87f25fa63fb14a7176ea221/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95e01c54a3ffc3655f5210f663aa4a8d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/dreamer/.gradle/caches/transforms-2/files-2.1/95e01c54a3ffc3655f5210f663aa4a8d/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/dreamer/flutter_apps/myapp/android/app/src/debug/AndroidManifest.xml:6:22-64
